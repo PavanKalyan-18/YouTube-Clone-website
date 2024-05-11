@@ -1,5 +1,5 @@
 # Project Title: Youtube clone
-## Technologies used: HTML and CSS
+## Technologies used: HTML5 and CSS3
 Started with HTML Basics
 Then css Basics
 used Hovers, Transitions and Shadows
