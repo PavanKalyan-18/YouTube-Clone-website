@@ -1,3 +1,5 @@
+# Project Title: Youtube clone
+## Technologies used: HTML and CSS
 Started with HTML Basics
 Then css Basics
 used Hovers, Transitions and Shadows
@@ -16,3 +18,4 @@ Position absolute and relative
 End of Project
 More css features
 Outro
+#'000000'
